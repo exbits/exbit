@@ -820,7 +820,9 @@ public:
         else
             vch.insert(it, first, last);
     }
-
+/**
+* @todo Need check this part of code
+*/
     // void insert(iterator it, std::vector<char>::const_iterator first, std::vector<char>::const_iterator last)
     // {
     //     assert(last - first >= 0);
