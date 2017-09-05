@@ -1,9 +1,9 @@
-Building FooCoin
+Building ExBit
 
-See doc/readme-qt.rst for instructions on building foocoin-qt,
+See doc/readme-qt.rst for instructions on building exbit-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of ExBit.
 
-See doc/build-*.txt for instructions on building foocoin,
+See doc/build-*.txt for instructions on building exbit,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of ExBit.
